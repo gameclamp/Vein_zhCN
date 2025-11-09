@@ -1,0 +1,80 @@
+name: Build and Release VEIN_zhCN pak
+
+on:
+  push:
+    paths:
+      - 'Game.locres.csv'
+      - '.github/workflows/build-and-release.yml'
+
+jobs:
+  build-pak:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 8 runtime
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+          package-type: runtime
+          architecture: 'x64'
+
+      - name: Import CSV to locres
+        shell: pwsh
+        run: |
+          Write-Host "Running UE4localizationsTool..."
+          $exe = Join-Path $PWD "UE4localizationsTool.exe"
+          if (!(Test-Path $exe)) { throw "UE4localizationsTool.exe not found at $exe" }
+          dir
+          & $exe -import Game.locres.csv -csv
+
+      - name: Create localization directory and move locres
+        shell: pwsh
+        run: |
+          $dest = Join-Path $PWD "VEIN_zhCN\Vein\Content\Localization\Game\en"
+          New-Item -ItemType Directory -Path $dest -Force | Out-Null
+          $locres = Join-Path $PWD "Game.locres"
+          if (!(Test-Path $locres)) {
+            $found = Get-ChildItem -Path $PWD -Filter *.locres -Recurse -ErrorAction SilentlyContinue | Select-Object -First 1
+            if ($found) { $locres = $found.FullName } else { throw "No .locres file found" }
+          }
+          Move-Item -Path $locres -Destination (Join-Path $dest "Game.locres") -Force
+
+      - name: Run repak to create pak
+        shell: pwsh
+        run: |
+          $unreal = Join-Path $PWD "repak.exe"
+          if (!(Test-Path $unreal)) { throw "repak.exe not found at $unreal" }
+          & $unreal pack VEIN_zhCN --compression Zlib
+          dir
+
+      - name: Set release tag (date)
+        id: set_tag
+        shell: pwsh
+        run: |
+          $tag = (Get-Date).ToString("yyyyMMddHHMMss")
+          echo "tag=$tag" >> $env:GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.set_tag.outputs.tag }}
+          release_name: "VEIN_zhCN 0.022h7 - ${{ steps.set_tag.outputs.tag }}"
+          draft: false
+          prerelease: false
+
+      - name: Upload VEIN_zhCN.pak to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./VEIN_zhCN.pak
+          asset_name: VEIN_zhCN.pak
+          asset_content_type: application/octet-stream
