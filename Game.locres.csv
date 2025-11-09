@@ -2304,8 +2304,8 @@ EA9E08604FB21FE3812C5D8C0A3BEA48,Chicken Parmesan,鸡肉帕尔马松
 8CB1497F4C90428A30E866BA46839EF9,Chicken Quesadilla,鸡肉奶酪披萨
 9CC4C0F04D5A41DB20C65BBFCCF4F679,Child Actors,儿童角色
 758AEC514D598C92957A149185085F41,Chilli Corn Chips,智利玉米片
-27C9F78C438D13162B958D938BDC89C6,Chilly,皮肤发冷
-Temperature_Chilly,Chilly,皮肤发冷
+27C9F78C438D13162B958D938BDC89C6,Chilly,微冷
+Temperature_Chilly,Chilly,微冷
 Face_Chin,Chin,
 02DD675C4143A53A2EA2A39063B8886E,Chin Cleft,下颌裂
 28D3A6CE478B9B72F6143DA9E30E9A33,Chin Depth,下颌的深度
@@ -2622,7 +2622,7 @@ C06178F94AE1BB6C6D1C7B954EBE539E,Cooking,料理
 0F25016245336A7C35CBD69F1CCF2AEF,Cooking Oil,食用油
 31D94B3A4956E6ED84D84BA4C7C8EB7C,Cooking Oil,食用油
 975458CB4F0A7D623883DFA46324926C,Cooking Oil,食用油
-Temperature_Cool,Cool,真不错啊
+Temperature_Cool,Cool,寒冷
 77AF3FC94993A40C10CFA5A117C53BB3,Cool Corn Chips,酷酷的玉米片
 A39DF3FC461BB0F94B9C71866DBD9679,Cool Glasses,酷酷的眼镜
 0620AB2B46390C48CFDFC7A0AA70487E,Cooler,冷却器
@@ -3732,7 +3732,7 @@ D6B1AFEE4009896057AEC48B4E7A67AF,Franklin Roanoke,富兰克林?罗阿诺克
 8AC991F945A4D1F4A6543F803469CA3B,Franklin Trailblazer,富兰克林?特雷尔?布拉泽
 42BF407444EA26E888C5E6890F471318,Free Look,自由视角
 Freezing,Freezing,冻结
-Temperature_ExtremeCold,Freezing,冻结
+Temperature_ExtremeCold,Freezing,冰冷
 03C0A7D842C5A205330D95A16A849176,French Door Fridge,法式门冰箱
 9649273B4170A5D72678248AF52E8F1D,French Door Fridge,法式门冰箱
 Food_DecayLevel_Fresh,Fresh,新鲜的
@@ -7788,9 +7788,7 @@ B5F66D674BA3E2AB91589EB782D73FA3,The corpse appears to have exploded.,尸体似�
 SystemNodeController_Broken,The device is broken.,设备已损坏.
 IceCream_Dispense_NoPower,The dispenser is unpowered.,
 3FA0AE0E4222B8A74FFEB19CAFA919E8,The doctor is in.,医生来了.
-A94CE0C0479EBFBB682033A3015FBF8F,"The door is locked. You'll have to head through the window.<cf><cf>Press <B>{RaiseFistsKey}</> to raise your fists, and <B>{PrimaryKey}</> to punch the window.","门已锁上.请从窗户进入.按 
-
-<RaiseFistKey}</> 以举起拳头,按 <B>{PrimaryKey}</> 以击打窗户."
+A94CE0C0479EBFBB682033A3015FBF8F,"The door is locked. You'll have to head through the window.<cf><cf>Press <B>{RaiseFistsKey}</> to raise your fists, and <B>{PrimaryKey}</> to punch the window.",门已上锁。你必须从窗户进入。<cf><cf>按 <B>{RaiseFistsKey}</> 举起双拳，按 <B>{PrimaryKey}</> 击碎窗户。
 DoorLock_ChangeLock_DoorClosed,The door needs to be open to change its lock.,您需要打开车门才能更改钥匙.
 D8D81FBA40C22B261B18BE84D68588D9,The east entrance to a huge mining complex.,巨大矿山综合设施的东侧入口.
 Vehicle_CantHotwire_NoGas,The engine doesn't start.,
