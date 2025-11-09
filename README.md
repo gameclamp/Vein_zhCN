@@ -10,7 +10,6 @@ csv可以进行线上编辑，或者线下使用普通文本编辑器编辑，�
 * CSV文件使用英文逗号分开3列，第一列为key不可更改，第二列为source英文原文，第三列为Translation中文翻译。
 * 不要对<>和{}标签翻译
 * 不要对设置中的Low Medium High Custom等进行翻译，会导致更改设置时，页面不变动。
-* 不要对{URL}行翻译，会导致右侧新闻列不显示。
 ## 工作流用到的工具
 https://github.com/amrshaheen61/UE4LocalizationsTool
 

@@ -1157,13 +1157,11 @@ E0E9BF174507D882ED7C55A0315FF6C7,A used car dealership. Not exactly known for qu
 76AAC35343D52F23FE8B0DBE731B5A10,A used toothbrush.,用过的牙刷.
 2E7753B1471EF599C20E1CAA9DBF2E71,"A used, long handled paint brush.",使用过的长柄油漆刷.
 B222880944B6737FE742C58C4DB813B1,A useful fuel for fires and furnaces. Could potentially be refined in a kiln.,"这是一种方便的燃料,可用于生火或燃烧炉.也有可能在窑中进行精炼."
-8881256340471EA714FE42B299F16962,"A utility cabinet marks an area as yours. Other players can't search nearby one, unlock locks, etc. unless you give them permission or they break it down. In addition, zombies don't appear near them.<cf><cf>Press <B>{ConstructionKey}</> to open your construction menu.<cf><cf>Go to the Utility Cabinets tab. Select a utility cabinet then click Build in the left menu.<cf><cf>Place it somewhere by pressing and holding <B>{PrimaryKey}</>.","一个储物柜会将该区域标记为自己的.除非您允许或摧毁该储物柜,否则其他玩家将无法探索或打开附近的储物柜.丧尸也不会出现在储物柜附近。<cf><cf>点击<B>{ConstructionKey}</> 打开建造菜单.导航到 “实用工具柜” 选项卡.选择实用工具柜,然后点击左侧菜单中的 “建造” 。按住<B>{PrimaryKey}</>，将实用工具柜安装到任意位置。"
+8881256340471EA714FE42B299F16962,"A utility cabinet marks an area as yours. Other players can't search nearby one, unlock locks, etc. unless you give them permission or they break it down. In addition, zombies don't appear near them.<cf><cf>Press <B>{ConstructionKey}</> to open your construction menu.<cf><cf>Go to the Utility Cabinets tab. Select a utility cabinet then click Build in the left menu.<cf><cf>Place it somewhere by pressing and holding <B>{PrimaryKey}</>.",一个储物柜会将该区域标记为自己的.除非您允许或摧毁该储物柜，否则其他玩家将无法探索或打开附近的储物柜。丧尸也不会出现在储物柜附近。<cf><cf>点击<B>{ConstructionKey}</> 打开建造菜单。导航到 “实用工具柜” 选项卡.选择实用工具柜,然后点击左侧菜单中的 “建造” 。按住<B>{PrimaryKey}</>，将实用工具柜安装到任意位置。
 4C2FA89B4CCC3B6CAA0BF2B496AE523E,"A very advanced, code lock made specifically for doors. Much stronger than an enhanced lock. Cannot be lockpicked.<cf><cf>Can be attached to doors and containers.",这是一种专门为门设计的高级密码锁.它比强化锁强大得多.无法撬动.可以安装在门和集装箱上.
 E34A8545441042BE155F12B39F36FA11,A very expensive spice.,非常昂贵的香料.
 08B6BF57425ACCF381A4AA9912772139,A very small park dwarfed by prison walls.,一个被监狱围墙包围的非常小的公园.
-0CFD965D489425721823EB934CE140AD,A very strong painkiller.<cf><cf>Used to reduce pain and sickness. Addictive.,"这是一种非常强效的镇痛剂。
-
-用于缓解疼痛和恶心。具有依赖性。"
+0CFD965D489425721823EB934CE140AD,A very strong painkiller.<cf><cf>Used to reduce pain and sickness. Addictive.,这是一种非常强效的镇痛剂。<cf><cf>用于缓解疼痛和恶心。具有依赖性。
 219E16034FB43B37CBA84A838362FD0A,"A wad of veggie fat. Doesn't taste great on its own, but might have other uses.","植物性脂肪块.虽然直接吃不好吃,但也许可以用于其他用途."
 49D3152A4B29C0454F05ACAA2985B822,"A wad of veggie fat. Doesn't taste great on its own, but might have other uses.","植物性脂肪块.虽然直接吃不好吃,但也许可以用于其他用途."
 C3CF37BD4860B5C750D74296EE6A0D77,A wafer candy bar.,威哈斯糖果店.
@@ -1934,14 +1932,14 @@ D631563349B34A811AF11C80A3B7ED07,Brownie,布朗尼
 CDA4BDDB46EEBC6EB04C20ADCB77E50C,Bucks Corners Rd,后角负载
 20EDD91F4FC6C278D75241B8F9CE6210,Bug Spray,杀虫喷雾
 E7337F1C489F592EE17A0084268B9866,Build,建造
-09ADB223492BF765AF8E3BB9E0489927,Build Object,构建对象
-477EE4D240EFB3600F34009BD97049CC,Build Utility Cabinet,构建实用机柜
-1A4C242D4D542771F24932B527284327,Building Backup Generator,建筑备用发电机
-23542B9B4F3A34D1441D44BF6B15CCC0,Building Backup Generator,建筑备用发电机
-40DD8A314E007BE4A747689BBE6B5C50,Building Backup Generator,建筑备用发电机
-2BB611B94299A32F2DAF1FB914C7A0D7,Building Fuse Box,构建保险丝盒
-C20CFC6D43309FB523415E8287A478F8,Building Power Control,建筑电力控制
-D25D48774A896E6EFDE16582951E84D4,Building Water Pump,建筑用水泵
+09ADB223492BF765AF8E3BB9E0489927,Build Object,建造对象
+477EE4D240EFB3600F34009BD97049CC,Build Utility Cabinet,建造实用存储柜
+1A4C242D4D542771F24932B527284327,Building Backup Generator,建造备用发电机
+23542B9B4F3A34D1441D44BF6B15CCC0,Building Backup Generator,建造备用发电机
+40DD8A314E007BE4A747689BBE6B5C50,Building Backup Generator,建造备用发电机
+2BB611B94299A32F2DAF1FB914C7A0D7,Building Fuse Box,建造保险丝盒
+C20CFC6D43309FB523415E8287A478F8,Building Power Control,建造电力控制
+D25D48774A896E6EFDE16582951E84D4,Building Water Pump,建造水泵
 LifetimeStat_NumberThingsBuilt,Built Objects,
 7AE7E3394CBC45E0B1D5B38A71AC50BB,Built Structure Decay,建筑物的退化
 22B546B740CF839FE8CBF7AD301CB9D5,Built Structure Decay Interval,建筑结构的退化间隔
@@ -2096,14 +2094,14 @@ BEA93BA4498D17537BDFE0A05A0F57D5,Canned Tuna,鲔鱼罐头
 9E3A6089486CC14381A87994EC1E620E,Canning Rd,峡谷加载
 DoorLock_RemoveLock_PickableOnlyByUC,"Cannot be lockpicked, requires a key.",
 1E17934D46954C6933CD48BB83C59C58,Canoe,独木舟
-7250638F4D4CF54ED2F402B95195780B,Cantaloupe,坎塔罗普
-9CB7CA3E4FE8E524E82ADF8A75C41517,Cantaloupe Slice,坎塔罗普切片
-74CA1A0E4B215BCE083E9387641CBDC0,Canteen,餐厅
-0DF4DFA54E2A9BA29F9FAF9E8A356495,Canteen is empty.,食堂是空的.
-E12855A04CAFC18AD20D9DB24CB7432F,Canteen is empty.,食堂是空的.
+7250638F4D4CF54ED2F402B95195780B,Cantaloupe,哈密瓜
+9CB7CA3E4FE8E524E82ADF8A75C41517,Cantaloupe Slice,哈密瓜切片
+74CA1A0E4B215BCE083E9387641CBDC0,Canteen,水壶
+0DF4DFA54E2A9BA29F9FAF9E8A356495,Canteen is empty.,水壶是空的。
+E12855A04CAFC18AD20D9DB24CB7432F,Canteen is empty.,水壶是空的。
 82821D3744CEABEA7E396EAC59654DDC,Capacitor,电容器
 8F5E8E01411F190F8BE1F9852942EF7B,Capacitor,电容器
-Capacity,Capacity,额外容量
+Capacity,Capacity,容量
 WeaponMagazine_Capacity,Capacity,容量
 249A80E4456A83BAD710E1A22E07C750,Capsule,胶囊
 Vehicle_Car,Car,汽车
@@ -2897,9 +2895,9 @@ B41F5E1D460A77F83EC777BE0BB6C95E,Desk,桌子
 D4CAB3F640A17B37522171B5363C5A3D,Desk Chair,办公椅
 8DE91C01459E9D9203AF65BB878D1133,Desktop PC,台式电脑
 You_Description,"Despite everything, it's still you.",不管怎样，你还是你。
-Destroy,Destroy,摧毁
-LootBag_Destroy,Destroy,摧毁
-Plant_Destroy,Destroy,摧毁
+Destroy,Destroy,破坏
+LootBag_Destroy,Destroy,破坏
+Plant_Destroy,Destroy,破坏
 F7A8AB664D0CAACD4352878A40FBD2B3,Destroy Forever,永久摧毁
 0AFEEC2546DF424C03EA5FBF34703E92,Destroyed Landmark,被摧毁的地标
 TVIsDestroyed,Destroyed. Will not work.,被摧毁。无法使用。
@@ -2997,7 +2995,7 @@ F4857B5B457982107824ADA0649B7735,"Distribution substations, like this one, contr
 5CE8CF584AE9A4D1B6F09BA429051EBA,Divider,隔板
 4C6C91D648EA41C593EF2BBF87404E59,Do Not Enter,禁止入内
 AACA80B446C43A49DB9977906AB7B715,"Do items respawn on e.g. shelves, sheds, etc.?",物品会在架子或小屋等地方重新出现吗？
-5DC1BCBA4A7B9CF5BE598583557B71F6,"Do you need a utility cabinet to maintain bases? If turned off, built structures will never decay.","基地维护管理是否需要实用机柜？如果关闭,所建造的结构不会退化."
+5DC1BCBA4A7B9CF5BE598583557B71F6,"Do you need a utility cabinet to maintain bases? If turned off, built structures will never decay.",基地维护管理是否需要储物柜？如果关闭，所建造的建筑不会老化。
 F16296694B3EA0220E771EADB3213204,Do you really want to be near this many bodies?,你真的想靠近这么多尸体吗？
 262EDE184866C14DDA101EA8829A71AE,Docklink LLC. Building,多克林克有限责任公司大楼
 B26C2CAA4DD25A2401FC9796997D417A,Doctor,医生
@@ -3359,12 +3357,12 @@ F649C55741C3DB1EEE5354BB4DCD51C3,Explosives Box,爆炸物箱
 CE5291934A456E0DC6701AB43C8FB787,Extinguish,删除
 Candle_Extinguish,Extinguish,删除
 Extinguish,Extinguish,删除
-ExtraCapacity,Extra Capacity,
-FluidTank_FillToContainer,Extract to Item,
-48C830924E9C2912AB4F8193F29C3F8A,Extreme performance cost.,极高的性能成本.
-Extremely Cold,Extremely Cold,极寒
+ExtraCapacity,Extra Capacity,额外容量
+FluidTank_FillToContainer,Extract to Item,提取到物品
+48C830924E9C2912AB4F8193F29C3F8A,Extreme performance cost.,极高的性能成本。
+Extremely Cold,Extremely Cold,极度寒冷
 30044A5C45E2E7B035CFE78DE1173732,Extremely Hot,非常热
-WeatherGauge_WindForce_5,Extremely Windy,
+WeatherGauge_WindForce_5,Extremely Windy,非常大风
 86A722D84EC0FE3174308A95DBF21629,Eye Almond Inner,杏眼内侧
 BE13995142274AE35B48FABCDBEB8381,Eye Almond Outer,杏仁形 (外侧)
 9B6E67DA48DEA4558F618F8CA80F92E2,Eye Angle Inner,视线内侧
@@ -4417,7 +4415,7 @@ CharCreateInvalid_BadName,Invalid name.,名称无效.
 A49FE0254C154CB80406B4A6B7487FF9,Inventory,库存
 AEAE2935424F3A823ED069AE0B13369C,Inventory,库存
 3AD044A74AA2D9123370CA8D0C378DE6,Invert Mouse,反转鼠标
-Furniture_Learn,Investigate,
+Furniture_Learn,Investigate,调查
 0805E7BF4EA905CCF1B2D991A34DD01F,Invisible,看不见
 InviteToGroup,Invite to Group,邀请加入群组
 5D93D62D4E7B3755DB84868EB6D26CC2,Invited by {Inviter Name},{Inviter Name} 先生邀请了我
@@ -4448,9 +4446,7 @@ AC9CA2F04CE18F75CC841CB436D72275,It looks like a car hit you. It'll heal by itse
 Clock_Check,It reads {Time}.,显示 '{Time}'.
 3F9221CD4027B0834988068A2639F054,It seems like you know what you're doing. Good luck!,看来你知道该做什么了.请加油！
 Glowstick_AlreadyActivated,It's already been activated.,
-B58159564415436F63C1FA8434ADD965,"It's cold in here and you need to warm up.<cf><cf>Turn on the radiator by scrolling to Turn On in its options, and pressing <B>{UseKey}</>.","""这里很冷,需要加热.滚动到 
-
- 选项中的 '打开', 然后按 <B>{UseKey}</> 打开散热器."""
+B58159564415436F63C1FA8434ADD965,"It's cold in here and you need to warm up.<cf><cf>Turn on the radiator by scrolling to Turn On in its options, and pressing <B>{UseKey}</>.",这里很冷，你需要取暖。<cf><cf>在暖气的选项中滚动到'启用'，然后按 <B>{UseKey}</>。
 BE229D564BA9EA71EDC4279352B19210,It's far away.,
 03D0F76442AE91FDC1733FAC715ADD8A,It's in the center.,他在中心
 Radiator_NoFuel,"It's not running, but the switch is turned on.","虽然没有工作,但开关是打开的."
@@ -4481,7 +4477,7 @@ E84B231E4F2AD7DB842919ABE2B14FB7,Jaw Whole Height,整个下颚的高度
 5732412F4AD1C05B74781988500A8237,Jaw Whole Width,整个下颚的宽度
 F5D78ADA497B811B2C4473A96BA42D01,Jean Jacket,牛仔夹克
 604E983D4B0B2F204D4756814F3245D7,Jeans,牛仔裤
-8800462A4C5CB9EEFC1F059BB03FD920,Jerry Can,果冻罐
+8800462A4C5CB9EEFC1F059BB03FD920,Jerry Can,汽油桶
 69C0E78B4E9788A20BA341B73D1D5299,Jetcoze Outback,喷气式海岸内陆
 067E512D41DF054C52351A9905D5F612,Jewelry Scrap,宝石碎屑
 358F6A35454E40DFE4DD8EA9B50C3BD9,Jigsaw,拼图
@@ -4670,7 +4666,7 @@ D802794E48E830B9E295279A80D502F4,Leaf Blower,吹叶机
 FD2BFBD240F73CCF731130B2ACB13E87,Leaky Plastic Pool,漏水的塑料泳池
 84769F2C4EA4E6B81C78A9AF8B47CF07,Leaky Pool,有漏水的泳池
 B40FC4154ACEF87EF3D1D3BFA2D3AECA,Leaky Pool,有漏水的泳池
-Furniture_Learn_Subtitle,Learn how to build this.,
+Furniture_Learn_Subtitle,Learn how to build this.,学习如何建造此物。
 8D5075504022368A59BA3AB608D90102,Leather Gloves,皮手套
 E915B8C0417B8F98C9ADD49F02C0A468,Leather Jacket,皮夹克
 9D701DCC4951926BCEB194A900382FB8,Leather Shoes,皮靴
@@ -4832,9 +4828,7 @@ F3B6FDCC4F1D5158D761B6BAB23C647B,Long Chemistry Counter,长期化学计数器
 237BADF7404815E0377164959D45ACBE,Long Steel Kitchen Cabinet,长钢厨房橱柜
 8A7FDC9B4D848C5291CFB4BA973A345C,Long Steel Kitchen Cabinet,长钢厨房橱柜
 D7F0075D48F69A25ACE67187D564D02A,Looking to buy a home in the mid 2030s? It's a bit too late for that.,您在考虑 2030 年代中期购房吗？这有点太晚了.
-547963AC420CAEB4B3F572A16797EC19,Looks like that did it. Now let's fortify our cabin.<cf><cf>Look at some furniture and select Destroy to break it into parts.,"""看来进行得很顺利呢.来吧,让我们强化小屋吧.
-
- 看着家具,选择 '破坏', 将其分解成零件吧."""
+547963AC420CAEB4B3F572A16797EC19,Looks like that did it. Now let's fortify our cabin.<cf><cf>Look at some furniture and select Destroy to break it into parts.,看起来这样就行了。现在让我们加固小屋。<cf><cf>查看一些家具并选择“破坏”以将其分解成零件。
 8E4C1B93423DAE3DBA71648281609A4B,Looks like the pilot lost control.,飞行员似乎失去了控制.
 32D0515F47C6DB776C1D8B9F5B50FF10,Loopback,环回
 77D2D15545C37D72F332FC8F5C7BD80D,Loot Scarcity,战利品不足
@@ -5068,8 +5062,8 @@ F7138ADB471024CD7CEA04A269600728,Medical Screen,医疗筛查
 09233F7E49A91AC4AAD853B25A98E19E,Medical Sink,医疗水槽
 687D0AF442F020A82F0643A8CD8A4258,Medical Sink,医疗水槽
 B38B5DE64ED44CB40F71FE9858F80832,Medical Sink,医疗水槽
-89092468421F0ED9CF6AF2814141DE6B,Medical Splint,医疗冲刺
-E8EEE1D34E5CAD5881C935A1B7B1D7B9,Medical Splint,医疗冲刺
+89092468421F0ED9CF6AF2814141DE6B,Medical Splint,医疗夹板
+E8EEE1D34E5CAD5881C935A1B7B1D7B9,Medical Splint,医疗夹板
 2173350D49893C5C6392388DFCF470E4,Medical Stretcher,医疗用担架
 B14988B549C69D212A9EBF9FB6F52A95,Medical Stretcher,医疗用担架
 5225AA964AC8DBE0E5DDAE8C98EC52F3,Medical Supply Depot,医疗用品仓库
@@ -5471,7 +5465,7 @@ FC42A5934723B68F0F078BBBB0B8B012,Nose Tip Width,鼻尖宽度
 96117DFF4715A0C4D5AE01B8B9995CA7,Nose Whole Depth,整个鼻子的深度
 629A776047FAAEE9666D4387C457C43F,Nose Whole Size,整个鼻子的尺寸
 8A0A599F40B2BCC1941C878E6BED8115,Nose Whole Width,整个鼻子的宽度
-Wireable_Subtitle_NotWired,Not connected to anything.,
+Wireable_Subtitle_NotWired,Not connected to anything.,未连接到任何设备。
 0E2F7C6748902705D6BAD3840776E1AC,Not consuming an item you're addicted to can lead to withdrawl.,
 Compost_NotStarted,Not decayed yet. Decays in one day. Expect {Quality} compost.,还没有腐烂.一天后就会腐烂.可以期待 {Quality} 的堆肥.
 9496711441416CD1BE30B794C4A13FE0,Not for the faint of heart.,这不适合心脏虚弱的人.
@@ -6081,7 +6075,7 @@ F9B6ED5C4AB71925F7D5A9A855186737,Potato,土豆
 108103FA4F4A7B1A6CCBDE841734D1E1,Potatoes Au Gratin,马铃薯焗烤
 E290E3504881125EA07E2091B49C63A7,Potatoes Au Gratin,马铃薯焗烤
 6ABB698C43AFA261F41DDEA9138ABFC8,Potted Fake Plant,盆栽假苗
-FluidTank_FillFromContainer,Pour Into from Item,
+FluidTank_FillFromContainer,Pour Into from Item,从物品倒入
 Vehicle_FillFromContainer,Pour Into from Item,
 05719B98408CB1D5DAC649BCCD5FA24C,Pour Out,出局用
 22976B5848DE8FD7D66F9B86C3A186E4,Pour Out,
@@ -6113,8 +6107,7 @@ E6C8C5784728CA96DA15C2815A8CE3B4,Prescription Antibiotics,处方抗生素
 E6983DF54E708D6012AEE1A6F8B6A684,Prescription Painkillers,处方止痛药
 7C00F8B3404DCB8E49AFC9B53B74B08E,Preset,预设
 ElevatorButton_Press,Press,
-0729E79C4CE5B7A5648A8E8700E87297,"Press <B>{FlashlightKey}</> to toggle your flashlight.<cf><cf>Now that you can see, turn on the power by going to the generator outside.<cf><cf>Pick up the spare gas canister. Look at the generator, and in your inventory, select the gas canister. Pour it into the generator through the inventory screen to start it up again.","按 <B>{FlashlightKey}</> 打开手电筒.
-按 <B>{FlashlightKey}</> 来切换手电筒的开关。<cf><cf>现在你可以看到周围的环境了，去外面启动发电机。<cf><cf>拿起备用的气罐。在物品栏中选择该气罐，然后通过物品栏界面将其倒入发电机内，以重新启动发电机。"
+0729E79C4CE5B7A5648A8E8700E87297,"Press <B>{FlashlightKey}</> to toggle your flashlight.<cf><cf>Now that you can see, turn on the power by going to the generator outside.<cf><cf>Pick up the spare gas canister. Look at the generator, and in your inventory, select the gas canister. Pour it into the generator through the inventory screen to start it up again.",按 <B>{FlashlightKey}</> 打开手电筒。<cf>按 <B>{FlashlightKey}</> 来切换手电筒的开关。<cf><cf>现在你可以看到周围的环境了，去外面启动发电机。<cf><cf>拿起备用的汽油桶。在物品栏中选择该汽油桶，然后通过物品栏界面将其倒入发电机内，以重新启动发电机。
 B4E90B9E4ACAEF15B6B90E8D2338B5FF,Press ESC to cancel,要取消，请按 ESC 键
 Key_LockVehicle,Press Lock Button,按下上锁按钮
 Key_TriggerCarAlarm,Press Panic Button,
@@ -7762,13 +7755,13 @@ HungerSatiation_Tooltip,The amount of hunger removed by eating this.,
 909A95B9480388E2E0914D84748753DA,The area around you smells normal.,你周围有普通的气味.
 CarBattery_Broken,The battery is broken.,电池坏了.
 BatteryPowerTooltip_Charging,The battery is currently being charged.,
-Vehicle_CantStart_NoBattery,The battery is dead.,电池耗尽了.
-CarBattery_Missing,The battery is missing.,
-CarBattery_NoPower,The battery is out of power.,电池没电了.
-Compost_Open_Sealed,The bin is sealed.,垃圾箱是密封的.
+Vehicle_CantStart_NoBattery,The battery is dead.,电池耗尽了。
+CarBattery_Missing,The battery is missing.,电池丢失。
+CarBattery_NoPower,The battery is out of power.,电池没电了。
+Compost_Open_Sealed,The bin is sealed.,垃圾箱是密封的。
 19915BD141E0AEA49096F79174A562FD,The body smells like alcohol.,身上散发着酒精的气味.
-SprayCan_Empty,The can is empty.,
-08E6ABA34A7EA4FD58BF2FA5A807AD87,"The center of your base.<cf><cf>Be sure to build this in a well-guarded location - if anyone gets to it, they can claim everything in your base for themselves.","这里是基地的中心.请务必将其建在戒备森严的地方.如果有人到达这里,就可以占有基地内的所有东西."
+SprayCan_Empty,The can is empty.,罐子是空的。
+08E6ABA34A7EA4FD58BF2FA5A807AD87,"The center of your base.<cf><cf>Be sure to build this in a well-guarded location - if anyone gets to it, they can claim everything in your base for themselves.",这里是基地的中心。请务必建造在戒备森严的地方。如果有人到达这里，就可以占有基地内的所有东西。
 DF724F6F45ADA4C4E0C9299C2A013CD7,The chair is located in front of you. How could you miss it?,
 9C5041674A4B686E48BF0480B01696E4,The chance of dirty bandages becoming infected is reduced 25%.,脏绷带感染的可能性降低 25%.
 04DA2C694CCF0FA02C3D1BAB8F76D7E0,The chances of causing floor creaks are reduced by 50%.,地板发出嘎吱声的概率降低了 50%.
@@ -7798,7 +7791,7 @@ Firework_Fire_Subtitle,The firework has a 10-second fuse.,
 FluidContainerHeat_Frozen,The fluid is currently frozen solid.,
 Workbench_BadFuel,The fuel doesn't ignite.,
 Furnace_NoValidFuel,The fuel isn't flammable.,这种燃料不是可燃的.
-474925C24288ACCF4B2CA1BFBCC657D5,"The generator looks to be running! Now turn on the fuse box inside the bedroom.<cf><cf>Power, water, and many other systems in VEIN are connected to a real grid, so if there are any fuse boxes or junction boxes that are switched off, power will be disrupted.","发电机似乎在运行！请打开卧室的保险丝盒.VEIN 的电力,自来水和许多其他系统都连接到实际电网,因此如果保险丝盒或连接盒中的任何一个关闭,电力供应将中断."
+474925C24288ACCF4B2CA1BFBCC657D5,"The generator looks to be running! Now turn on the fuse box inside the bedroom.<cf><cf>Power, water, and many other systems in VEIN are connected to a real grid, so if there are any fuse boxes or junction boxes that are switched off, power will be disrupted.",发电机似乎在运行！现在去卧室里开启配电箱的保险丝盒。<cf><cf>在 VEIN 中，电力、供水和其他许多系统都连接到真实的电网，因此如果任何配电箱或接线箱被关闭，电力将会中断。
 HandDryer_Unpowered,The hand dryer isn't doing anything.,手持烘干机无法正常工作.
 172434E24DF7F9E0AACA069DED8EB0C2,The impact's jaw is broken and bloody. It looks like they dislocated their jaw trying to bite something.,"受灾者的下巴骨折,满是血迹.似乎是为了咬东西而导致下巴脱臼."
 30E27F4B47552093A4FCCAB9B184BA72,The impact's jaw is broken and bloody. It looks like they dislocated their jaw trying to bite something.,"受灾者的下巴骨折,满是血迹.似乎是为了咬东西而导致下巴脱臼."
@@ -7894,7 +7887,7 @@ B8B6F3EE4A9F1B300595988BD045BF0B,The victim's corpse appears to be dehydrated.,�
 5B1F3A7D421D88CC37B7229927D56171,The wastewater processing facility for Dannemora and Saranac.,丹尼莫拉和萨拉纳克的废水处理设施.
 Chair_CantExitFromWater,The water pressure is making it very hard to open the door. You'll need to keep trying!,
 F450025445F072423CA04E9703A85E2F,The west entrance to a huge mining complex.,巨大矿山综合设施的西侧入口.
-E3C142FB4D1BFBB48EECDDAD35C96F3C,"There are blinds in the way.<cf><cf>Use your scroll wheel to scroll to ""Up"", then hold <B>{UseKey}</> to move them.","百叶窗挡住了视线.使用滚轮向上滚动到 '顶部', 然后按住 <B>{UseKey}</> 进行移动."
+E3C142FB4D1BFBB48EECDDAD35C96F3C,"There are blinds in the way.<cf><cf>Use your scroll wheel to scroll to ""Up"", then hold <B>{UseKey}</> to move them.",百叶窗挡住了视线。使用滚轮向上滚动到 '完全打开'，然后按住 <B>{UseKey}</> 进行移动。
 D9F3E0EA4E297A96A448B2AFDBFC4BC7,There are clear gunshot wounds to the victim.,受害者身上有明显的枪伤.
 735B32E44BC58E99EC491D804270BFA0,There are electrical burns covering the victim's body.,受害者的身体上有电流造成的烧伤扩散.
 Respawn_NoBedText,There are no beds for you to respawn at. Sleep in a bed.,
@@ -7968,9 +7961,9 @@ Furniture_HasAttachedStuff,This has something attached to it. Destroy that first
 CantPickup_LockedSource,This inventory is locked.,此物品栏已锁定.
 FluidTank_FillFromContainer_AlreadyFull,This is already full.,
 Hint_BadPlacement_UtilityCabinet,This is blocked by a nearby utility cabinet that you do not have permissions for.,
-FluidTank_Empty,This is empty.,
-Furniture_CantBeMoved_BadUC,This is protected by a nearby Utility Cabinet.,
-Furniture_CantDestroy_UCCheck,This is protected by a nearby Utility Cabinet.,
+FluidTank_Empty,This is empty.,这是空的。
+Furniture_CantBeMoved_BadUC,This is protected by a nearby Utility Cabinet.,此处受附近的储物柜保护。
+Furniture_CantDestroy_UCCheck,This is protected by a nearby Utility Cabinet.,此处受附近的储物柜保护。
 Hint_BadPlacement_TooManyStacks,This is stacked too high.,
 Hint_BadPlacement_StartPenetrating,This is stuck inside something else.,它被塞在其他东西里面.
 SplintDurability_Tooltip,This is the 'quality' of the splint and affects how much it treats your wound.,
@@ -8276,7 +8269,7 @@ C69C2A4C4911ED285F2C74AA08FC183C,Trash Bin,垃圾桶
 90F160BC4E21CA3CC7C657ADBF3635AB,Trauma Bandage,外伤绷带
 ED2C42A04328D84D9F870387950FF3BB,Trauma Bandage,外伤绷带
 B68649714EAAED1B1A938896F0823D68,Tread Lightly,轻快地走着
-B27DE67B42A370E469C637AE36A05B61,Treat Injury,伤口治疗
+B27DE67B42A370E469C637AE36A05B61,Treat Injury,治疗创伤
 AF7FAB6B4D22092CB3534088819581C3,Treated,已经治疗完毕
 BE51C8E94057587EB97029BD28564243,Trench Coat,风衣
 6247BF024D29F987351BA088877A5434,Tricks of the Trade,做生意的诀窍
@@ -8483,12 +8476,12 @@ FFCA033942AE0D0183E5B9AC310E5109,Useful for looking out to far off places.,这�
 656098664DA6F70349948B9414315018,Utility,实用工具
 85E223E74317CC65D6B91EB09637C0AD,Utility,实用工具
 B9C29ADD4CA2A1A3934C2BB09E9459C9,Utility,实用工具
-4C9ACFB248ECBC2875CD3DAC38B8A371,Utility Cabinet,实用机柜
-93CA32A14FFEEA60F98F5FA4201CD34E,Utility Cabinet,实用机柜
-F7F6A3804737E5B1C5F627A81BDE608A,Utility Cabinet,实用机柜
-Utility Cabinet,Utility Cabinet,实用机柜
-754AEE754C580FA7EF30339DA2DC55ED,Utility Cabinets,实用机柜
-03676E8344058D0C14F70DAFC94148B9,Utility Vehicle,实用车
+4C9ACFB248ECBC2875CD3DAC38B8A371,Utility Cabinet,储物柜
+93CA32A14FFEEA60F98F5FA4201CD34E,Utility Cabinet,储物柜
+F7F6A3804737E5B1C5F627A81BDE608A,Utility Cabinet,储物柜
+Utility Cabinet,Utility Cabinet,实用工具柜
+754AEE754C580FA7EF30339DA2DC55ED,Utility Cabinets,储物柜
+03676E8344058D0C14F70DAFC94148B9,Utility Vehicle,交通工具
 60B56A13424F8851933660A2B1262164,"Utility items, such as a cellphone, can be equipped into a utility slot.",
 Scoreboard_Dev,VEIN Developer,
 ItemKVTooltip_Placeholder,"VEIN is still work-in-progress, so we are using temporary art for this item.","由于 VEIN 仍在开发中,因此这个项目使用了临时的美术风格."
@@ -8801,11 +8794,11 @@ A8872F704A9E42A205D1048A3C86BC31,Whitefish,白鱼
 3C1444E94F3E9391C33476882E7360BB,Whoever worked here is gone now.,在这里工作的人已经不在了.
 370121B645724909854E1CA7A31E8CD2,Whole Pizza,披萨 1 张
 E54D18E3400AFB8856807AB8B6B5E4FC,Wholegrain Rice,全粒米
-434366D047668AF51266AEB1F259ACFC,"Why not take a drink?<cf><cf>Select the canteen in your inventory, and drink from it by clicking the appropriate option.<cf><cf>In VEIN, you have conditions like thirst that some items can satisfy. Just beware that things are not always as they seem - and a water bottle may not contain water!","想喝点饮料吗？从物品栏中选择水壶,点击合适的选项喝点饮料吧.在 VEIN 中,口渴等症状可以通过物品来缓解.但是,请注意,事情并不总是如表面所见.水壶里可能没有水！"
+434366D047668AF51266AEB1F259ACFC,"Why not take a drink?<cf><cf>Select the canteen in your inventory, and drink from it by clicking the appropriate option.<cf><cf>In VEIN, you have conditions like thirst that some items can satisfy. Just beware that things are not always as they seem - and a water bottle may not contain water!",何不喝一口？<cf><cf>在物品栏中选择水壶，然后点击相应选项饮用。<cf><cf>在 VEIN 中，你有诸如口渴之类的状态，某些物品可以满足这些需求。只要注意事情可能并非表面如此——水瓶里可能并不是水！
 D75AA45143E9505013FB508126D7AEE1,Wide Bookshelf,宽书架
 6CD445CE4A71943A0E3C5B9F3B058240,Wide Class Table,宽类表
-A6EB1C4244ACBB1CDCBEA2823C68E555,Wilfred King Rd,威尔弗雷德?金?罗德
-CloneLock_Subtitle,Will use {Items}.,
+A6EB1C4244ACBB1CDCBEA2823C68E555,Wilfred King Rd,威尔弗雷德金路
+CloneLock_Subtitle,Will use {Items}.,将使用 {Items} 。
 C5FDEFF44703F48D17B0659DF21EC264,William St,威廉大道
 7AFB89DD4B78C91B6A69C3AD28C29090,Wind Direction,风向
 F40F7F994FC9877ED42D6FAA27EB5B41,Wind Direction,风向
@@ -9381,11 +9374,11 @@ GlassRepair_NoGlass,You need a {ItemName} to repair this.,"要修复此问题,�
 SystemNodeController_RepairNoTool,You need a {ToolName} to repair this.,"要修复此问题,需要 {ToolName}。"
 Compost_TooLittleMass,You need at least {Mass} of compostable material to make compost.,制作堆肥至少需要 {Mass} 的可堆肥材料。
 9382F65246623EAF73CD7AAEE51E8AC9,You need glasses to see clearly.,需要戴眼镜才能看得清楚.
-Schematic_StatRequirement_Tooltip,You need level {Level} {StatName} to understand this.,您需要等级 {level} {StatName} 才能理解它。
-Furniture_Learn_NotEnoughStat,You need level {Level} {Stat} to investigate this.,您需要等级 {level} {StatName} 来检查它。
+Schematic_StatRequirement_Tooltip,You need level {Level} {StatName} to understand this.,你需要等级 {level} {StatName} 才能理解它。
+Furniture_Learn_NotEnoughStat,You need level {Level} {Stat} to investigate this.,你需要 {Level} 级的 {Stat} 来调查此处。
 67A2494D4E48F299DEAFCA974DD042E1,"You need to be able to see better. Find a flashlight. Its location is marked on your compass.<cf>Once you have it, drag it to the bottom utility slot in your inventory screen.",你想看得更清楚。找个手电筒。它的位置标在你的指南针上。<cf>拥有它后，将其拖动到库存屏幕中的底部快捷工具插槽。
 CharacterSearchDisabled,You need to be crouching.,你需要蹲下。
-DoorLock_RemoveLock_NotInVehicle,You need to be in the vehicle to remove this.,您需要在车内才能将其拆下。
+DoorLock_RemoveLock_NotInVehicle,You need to be in the vehicle to remove this.,你需要在车内才能将其拆下。
 AbrasiveItem_RemoveRust_NoVehicle,You need to be looking at a vehicle.,你需要望向一辆车。
 AbrasiveItem_RemoveRust_NoVehicle_Notif,You need to be looking at a vehicle.,你需要望向一辆车。
 SprayPaint_ColorVehicle_NoVehicle,You need to be looking at a vehicle.,你需要望向一辆车。
